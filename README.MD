@@ -3,7 +3,9 @@
 Learn how to make a robust REST API in Symfony using API Platform and create a React SPA application
 [udemy](https://www.udemy.com/course/symfony-api-platform-reactjs-full-stack-masterclass/)
 
-## Section 4 - Symfony Introduction - Controllers and Routing
+## TODO
+
+### Section 4 - Symfony Introduction - Controllers and Routing
 
 - [x] 23. Creating new Symfony project
 - [x] 24. Routing annotations in controllers
@@ -12,7 +14,7 @@ Learn how to make a robust REST API in Symfony using API Platform and create a R
 - [x] 27. Routing - generating urls using route names
 - [x] 28. AbstractController, Request, Response
 
-## Section 5 - Symfony Introduction - Database; Doctrine, Fixtures
+### Section 5 - Symfony Introduction - Databases, Doctrine, Fixtures
 
 - [x] 29. Installing ORM, maker, configuring database
   - using mysql instead of SQlite
@@ -26,6 +28,6 @@ Learn how to make a robust REST API in Symfony using API Platform and create a R
 - [ ] 37. Doctrines Fixtures - seeding fake data
 - [ ] 38. Admin panel introduction - EasyAdmin
 
-## Section 6 - API Platform - Introduction
+### Section 6 - API Platform - Introduction
 
-## Section 7 - API Platform - Operations (GET/POST/PUT/DELETE)
+### Section 7 - API Platform - Operations (GET/POST/PUT/DELETE)
