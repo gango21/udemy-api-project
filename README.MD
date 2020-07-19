@@ -7,9 +7,9 @@ Learn how to make a robust REST API in Symfony using API Platform and create a R
 
 - [x] 23. Creating new Symfony project
 - [x] 24. Routing annotations in controllers
-- [ ] 25. Routing - route parameters wildcard
-- [ ] 26. Routing - default parameters value
-- [ ] 27. Routing - generating urls using route names
+- [x] 25. Routing - route parameters wildcard
+- [x] 26. Routing - default parameters value
+- [x] 27. Routing - generating urls using route names
 - [ ] 28. AbstractController, Request, Response
 
 ## Section 5 - Symfony Introduction - Database; Doctrine, Fixtures
