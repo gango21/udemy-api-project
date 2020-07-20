@@ -19,7 +19,7 @@ Learn how to make a robust REST API in Symfony using API Platform and create a R
 - [x] 29. Installing ORM, maker, configuring database
   - using mysql instead of SQlite
 - [x] 30. Generating first Entity
-- [ ] 31. Entity explained
+- [x] 31. Entity explained
 - [ ] 32. Migration - modifying database structure
 - [ ] 33. Persisting entities and serializing datas
 - [ ] 34. Fetching objects using repositories
